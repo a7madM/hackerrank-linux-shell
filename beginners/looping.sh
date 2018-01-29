@@ -1,3 +1,4 @@
+# https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers
 X=1
 while [ $X -le 99 ]
 do
